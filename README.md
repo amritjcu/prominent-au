@@ -1,5 +1,5 @@
-# Laravel E-Commerce Website
-A Computer Selling Wesbsite(E-Commerce) with Laravel 10.x
+# PROMINENT AUSTRALIA E-Commerce Website
+A Computer Selling Wesbsite(E-Commerce) with PHP Laravel 10.x
 ## 🧰 Languages & Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="70" height="70"/>&nbsp;
